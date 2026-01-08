@@ -1,9 +1,7 @@
 # Heavenly-Restrictions
 
 
-Dự án thử nghiệm xây dựng hệ thống menu điều hướng cơ bản sử dụng chip **BW16 (RTL8720DN)**, màn hình **OLED 0.96 inch** và 3 nút nhấn vật lý.
-
-Dự án này là nền tảng lý tưởng để học tập lập trình nhúng, kỹ thuật xử lý nút bấm (debounce), quản lý trạng thái (state machine) và hiển thị giao diện đồ họa trên vi điều khiển.
+Dự án tập trung vào việc làm quen và thực hành các kỹ thuật lập trình hệ thống nhúng thông qua nền tảng chip **BW16 (RTL8720DN)** và **BW21 CBV**. Đây là không gian thực nghiệm để tìm hiểu cách một **vi điều khiển (MCU)** quản lý giao diện, xử lý nút bấm vật lý và tương tác trực tiếp với các giao thức kết nối phổ biến như **WiFi Dual Band (2.4GHz/5GHz)** và **Bluetooth**.
 
 ---
 
